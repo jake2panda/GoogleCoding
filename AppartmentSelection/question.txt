@@ -1,0 +1,34 @@
+
+these are appartment blocks
+
+Blocks = [
+	{
+		"gym"	: false,
+index-5		"school": true,
+		"store" : false,
+	},
+
+	{
+		"gym"	: true,
+index-3		"school": false,
+		"store" : false,
+	},
+	{
+		"gym"	: true,
+index-2		"school": true,
+		"store" : false,
+	},
+	{
+		"gym"	: false,
+index-1		"school": true,
+		"store" : false,
+	},
+	{
+		"gym"	: false,
+index-0		"school": true,
+		"store" : true,
+	},
+];
+
+you have to find out a way to choose a appartment where you are gonna get all the facilities by covering the least distance?
+
