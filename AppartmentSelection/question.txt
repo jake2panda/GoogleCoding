@@ -30,5 +30,5 @@ index-0		"school": true,
 	},
 ];
 
-you have to find out a way to choose a appartment where you are gonna get all the facilities by covering the least distance?
+you have to find out a way to choose an appartment where you are gonna get all the facilities by covering the least distance?
 
